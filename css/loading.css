@@ -22,5 +22,5 @@ body{
     width: 100vw;
     background-color: yellow;
     position: absolute;
-    
+    z-index: -1;
 }
