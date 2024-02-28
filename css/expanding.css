@@ -1,4 +1,4 @@
-<link href="https://fonts.googleapis.com/css2?family=Anton&family=Micro+5&display=swap" rel="stylesheet">;
+
 
 * {
     box-sizing: border-box;
@@ -10,7 +10,7 @@ body {
     align-items: center;
     justify-content: center;
     margin: 0;
-    font-family: "Micro 5", sans-serif;
+    
 }
 
 .container {
