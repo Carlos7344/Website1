@@ -1,4 +1,4 @@
-
+@import url('https://fonts.googleapis.com/css2?family=Anton&family=Charm:wght@400;700&family=Micro+5&display=swap');
 
 * {
     box-sizing: border-box;
@@ -10,7 +10,7 @@ body {
     align-items: center;
     justify-content: center;
     margin: 0;
-    
+    font-family: "Charm", cursive;
 }
 
 .container {
