@@ -18,5 +18,14 @@ body {
     cursor: pointer;
     background-color: LightBlue;
     padding: 15px;
-    
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+
+
+    color: Black;
+    cursor: pointer;
+
+    margin: 10px;
+    border: 0;
 }
