@@ -13,13 +13,7 @@ body {
 
 .btn
 {
-    position: absolute;
-    top: 0;
-    left: 0px;
-    font-size: 24px;
-    background-color: green;
-    border: 0;
     height: 50px;
-    width: 50px;
-    cursor: pointer;
+    position: relative;
+    
 }
