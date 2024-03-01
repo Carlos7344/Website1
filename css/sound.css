@@ -17,5 +17,5 @@ body {
     position: relative;
     cursor: pointer;
     background-color: LightBlue;
-    border: 0;
+    padding: 15px;
 }
