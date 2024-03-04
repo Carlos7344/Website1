@@ -14,19 +14,13 @@ body {
 .btn
 {
     height: 40px;
-    position: relative;
     cursor: pointer;
     background-color: LightBlue;
     font-size: 1.3rem;
-    padding: 1.5rem;;
-    background-size: cover;
-    background-position: center;
-    background-repeat: no-repeat;
-
-
-    color: Black;
+    padding: 1.5rem 3rem;
+    color: black;
     cursor: pointer;
-
     margin: 15px;
+    border-radius: 50px;
     border: 0;
 }
