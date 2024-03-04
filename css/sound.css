@@ -13,11 +13,12 @@ body {
 
 .btn
 {
-    height: 50px;
+    height: 40px;
     position: relative;
     cursor: pointer;
     background-color: LightBlue;
-    padding: 20px;
+    font-size: 1.3rem;
+    padding: 30px;
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
