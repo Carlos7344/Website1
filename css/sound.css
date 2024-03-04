@@ -1,4 +1,4 @@
-
+@import url('https://fonts.googleapis.com/css2?family=Anton&family=Charm:wght@400;700&family=Madimi+One&family=Micro+5&display=swap');
 
 body {
     background-color: Darkblue;
@@ -21,4 +21,9 @@ body {
     margin: 15px;
     border-radius: 50px;
     border: 0;
+    font-family: "Madimi One", sans-serif;
+}
+
+.btn:hover{
+    opacity: 0.9;
 }
