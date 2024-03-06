@@ -108,7 +108,7 @@ body {
 }
 
 .nav.active a {
-    color:white;
+    color:black;
 }
 
 .nav.active .container {
@@ -117,7 +117,7 @@ body {
 
 .nav a.current,
 .nav a:hover {
-    color: rgb(192,57,43);
+    color: blue;
     font-weight: bold;
 }
 
