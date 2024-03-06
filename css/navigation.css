@@ -103,12 +103,12 @@ body {
 }
 
 .nav.active{
-    background-color: white;
+    background-color: black;
     box-shadow: 0 2px 10px rgba(0,0,0,0.3)
 }
 
 .nav.active a {
-    color:black;
+    color:white;
 }
 
 .nav.active .container {
