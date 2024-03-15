@@ -50,6 +50,11 @@ body {
     opacity: 1;
     transition: opacity .5 ease-in 0.5s;
 }
+.web {
+    position: absolute;
+    top: 0;
+    left: 0;
+}
 
 @media (max-width: 480px) {
     .panel:nth-of-type(4){

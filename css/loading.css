@@ -29,4 +29,9 @@ body{
     background-size: cover;
     background-repeat: no-repeat;
     filter: blur(0px);
-    }
+}
+.web {
+        position: absolute;
+        top: 0;
+        left: 0;
+}
