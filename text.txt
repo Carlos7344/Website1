@@ -45,4 +45,4 @@
 </html>
 
 
-rulesBtn = document
+rulesBtn = document.getElemntById('rules-btn')
