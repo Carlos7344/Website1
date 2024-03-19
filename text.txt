@@ -43,3 +43,6 @@
 </body>
 <script src="js/navigation.js"></script>
 </html>
+
+
+rulesBtn = document
