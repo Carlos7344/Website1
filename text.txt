@@ -48,6 +48,8 @@
 rulesBtn = document.getElemntById('rules-btn')
 
 score = 0
+brickRowCount = 9
+brickColumnCount = 5
 
 ball = {
     x:canvas.width / 2,
@@ -69,6 +71,19 @@ paddle = {
     dx: 0,
 
 }
+
+
+//create brick propertites
+brickInfo = {
+    w: 70,
+    h: 20,
+    padding: 10,
+    offsetX: 45,
+    offsetY: 60,
+    visible: true
+}
+
+
 
 // draw ball on canvas
 function drawBall()
