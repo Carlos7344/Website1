@@ -125,6 +125,15 @@ function drawScore() {
     ctx.fillText(`Score: ${score}`, canvas.width-100, 30)
 }
 
+//draw bricks on canvas
+function drawBricks() {
+    bricks.forEach(column => {
+        column.forEach(brick => {
+            
+        })
+    })
+}
+
 
 function draw() {
  drawPaddle()
