@@ -47,6 +47,8 @@
 
 rulesBtn = document.getElemntById('rules-btn')
 
+score = 0
+
 ball = {
     x:canvas.width / 2,
     y:canvas.height / 2
@@ -87,6 +89,13 @@ function drawPaddle()
     ctx.closePath()
 }
 
-drawPaddle()
+//draw score on canvas
+function drawScore() {
+    
+}
 
-drawBall() 
+
+function draw() {
+ drawPaddle()
+ drawBall()
+}
