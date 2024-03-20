@@ -76,4 +76,6 @@ function drawBall()
     ctx.fill()
     ctx.closePath()
 }
-drawBall()
+drawBall() {
+    
+}
