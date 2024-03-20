@@ -81,11 +81,12 @@ function drawBall()
 function drawPaddle()
 {
     ctx.beginPath()
+    ctx.rect(paddle.x, paddle.y, paddle.w, paddle.h)
     ctx.fillstyle = '#0095DD'
     ctx.fill()
     ctx.closePath()
 }
 
-drawBall() {
+drawPaddle()
 
-}
+drawBall() 
