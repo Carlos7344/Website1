@@ -94,6 +94,12 @@ function drawBall()
     ctx.fill()
     ctx.closePath()
 }
+
+
+//create bricks
+
+
+
 //draw paddle
 function drawPaddle()
 {
