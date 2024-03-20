@@ -83,7 +83,9 @@ brickInfo = {
     visible: true
 }
 
-
+// Create bricks
+bricks = []
+for (let i = 0; i < brickRowCount; i++)
 
 // draw ball on canvas
 function drawBall()
