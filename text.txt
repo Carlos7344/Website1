@@ -65,6 +65,7 @@ paddle = {
     h: 10,
     speed: 8,
     dx: 0,
+
 }
 
 // draw ball on canvas
@@ -76,6 +77,15 @@ function drawBall()
     ctx.fill()
     ctx.closePath()
 }
+//draw paddle
+function drawPaddle()
+{
+    ctx.beginPath()
+    ctx.fillstyle = '#0095DD'
+    ctx.fill()
+    ctx.closePath()
+}
+
 drawBall() {
-    
+
 }
